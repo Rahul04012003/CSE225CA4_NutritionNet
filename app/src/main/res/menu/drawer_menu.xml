@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_profile"
+        android:title="Profile" />
+    <item
+        android:id="@+id/menu_bmi"
+        android:title="BMI" />
+    <item
+        android:id="@+id/menu_height"
+        android:title="Height" />
+    <item
+        android:id="@+id/menu_weight"
+        android:title="Weight" />
+    <item
+        android:id="@+id/menu_calories"
+        android:title="Calories" />
+</menu>
